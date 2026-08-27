@@ -1,0 +1,1 @@
+-- Options configuration for Nvim in Lua
