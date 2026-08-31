@@ -900,6 +900,7 @@ do
   --
   --  Uncomment the following line and add your plugins to `lua/custom/plugins/*.lua` to get going.
    require 'custom.plugins.lualine'
+   require 'custom.plugins.smear-cursor'
 end
 
 -- The line beneath this is called `modeline`. See `:help modeline`
